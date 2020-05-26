@@ -1,0 +1,59 @@
+{
+    "title": "Intracellular Recordings of Murine Neocortical Neurons",
+    "creators": [
+        {
+            "name": "Matthew Tran"
+        }
+    ],
+    "description": "This dataset contains intracellular electrophysiological current clamp recordings from murine neocortical neurons.",
+    "version": "2020-04-18T19:34:10.458118",
+    "licenses": [
+        {
+            "name": "None"
+        }
+    ],
+    "keywords": [
+        {
+            "value": "canadian-open-neuroscience-platform"
+        }
+    ],
+    "distributions": [
+        {
+            "size": "9.1",
+            "unit": {
+                "value": "MB"
+            },
+            "access": {
+                "landingPage": "https://osf.io/vmg62/",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ]
+            }
+        }
+    ],
+    "extraProperties": [
+        {
+            "category": "logo",
+            "values": [
+                {
+                    "value": "https://osf.io/static/img/institutions/shields/cos-shield.png"
+                }
+            ]
+        },
+        {
+            "category": "files",
+            "values": [
+                {
+                    "value": "1"
+                }
+            ]
+        }
+    ],
+    "types": [
+        {
+            "value": "unknown"
+        }
+    ]
+}
