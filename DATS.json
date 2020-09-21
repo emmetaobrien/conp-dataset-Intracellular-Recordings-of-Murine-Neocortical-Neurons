@@ -43,6 +43,46 @@
             ]
         },
         {
+            "category": "origin_institution",
+            "values": [
+                {
+                    "value": "University of Toronto"
+                }
+            ]
+        },
+        {
+            "category": "origin_city",
+            "values": [
+                {
+                    "value": "Toronto"
+                }
+            ]
+        },
+        {
+            "category": "origin_province",
+            "values": [
+                {
+                    "value": "Ontario"
+                }
+            ]
+        },
+        {
+            "category": "origin_country",
+            "values": [
+                {
+                    "value": "Canada"
+                }
+            ]
+        },
+        {
+            "category": "CONP_status",
+            "values": [
+                {
+                    "value": "CONP"
+                }
+            ]
+        },
+        {
             "category": "files",
             "values": [
                 {
